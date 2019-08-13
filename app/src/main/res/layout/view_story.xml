@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:id="@+id/storyCV"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/storyTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Histoire"
+        android:textSize="20dp"
+        android:textColor="@color/colorBlack"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+</android.support.v7.widget.CardView>
